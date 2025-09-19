@@ -1,0 +1,10 @@
+
+*.pdf
+Datos/
+Matlab/
+Arduino/
+Documentaci�on/Figuras Documentación
+*Documentación/modelado Motor 
+Documentación/*.txt
+
+
