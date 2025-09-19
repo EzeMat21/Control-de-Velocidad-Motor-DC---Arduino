@@ -4,6 +4,7 @@ Matlab/
 Arduino/
 Documentacion/Figuras Documentación/
 *.pdf
+*.txt
 !Documentacion/Proyecto__Control_de_Velocidad_Motor_DC.pdf
 
 
